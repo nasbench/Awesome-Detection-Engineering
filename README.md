@@ -2,6 +2,20 @@
 
 > Awesome Resources and Discussions About Detection Engineering
 
+## Content
+
+- [Awesome Detection Engineering](#awesome-detection-engineering)
+  - [Content](#content)
+  - [Books](#books)
+  - [Blogs](#blogs)
+    - [Blog Posts / Series](#blog-posts--series)
+  - [Detection Rules](#detection-rules)
+  - [Courses](#courses)
+  - [Talks / Webinars](#talks--webinars)
+  - [Slides](#slides)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Follow These People](#follow-these-people)
+  
 ## Books
 
 -
@@ -41,3 +55,4 @@
 - [Florian Roth](https://twitter.com/cyb3rops)
 - [Jared Atkinson](https://twitter.com/jaredcatkinson)
 - [Aura](https://twitter.com/SecurityAura)
+- [Franc](https://twitter.com/frack113)
